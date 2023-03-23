@@ -20,8 +20,7 @@ Trap density layers for maintenance and buffer trapping scenarios:
 
 All model outputs are saved in the 'Model output' folder
 
-All code used to create figures and tables in the paper is presented in the R Markdown documents: 
+All code used to create figures and tables in the paper is presented in the R Markdown document: 
 "Possum_reinvasion_Otago_Peninsula.html"
-"Possum_reinvasion_Otago_Peninsula.pdf"
 
 Contact Charlotte Patterson at crpattrsn@gmail.com for queries.
