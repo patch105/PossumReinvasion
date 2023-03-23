@@ -1,6 +1,6 @@
 # PossumReinvasion
 
-https://zenodo.org/badge/latestdoi/617738118
+<a href="https://zenodo.org/badge/latestdoi/617738118"><img src="https://zenodo.org/badge/617738118.svg" alt="DOI"></a>
 
 The primary aim of this project is to assess repopulation rates of an invasive mammal, the common brushtail possum (Trichosurus vulpecula) on a peninsula adjacent to an urban centre across management scenarios that emphasise differen repopulation-prevention methods. 
 
