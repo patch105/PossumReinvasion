@@ -16,5 +16,5 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.8336687
 url: 'https://github.com/patch105/PossumReinvasion/tree/v1.0.1'
-version: v.1.0.1
-date-released: '2023-09-12'
+version: v.1.0.2
+date-released: '2024-02-26'
