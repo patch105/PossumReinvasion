@@ -1,1 +1,16 @@
+
 Patterson, C.R.P., and A. Lustig. 2024. "Code in Support of Eradicating an Invasive Mammal Requires Local Elimination and Reduced Reinvasion from Urban Source Population". https://doi.org/10.5281/zenodo.8336687.
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Patterson"
+  given-names: "Charlotte Ruby"
+  orcid: "https://orcid.org/0000-0002-7174-9583"
+- family-names: "Lustig"
+  given-names: "Audrey"
+  orcid: "https://orcid.org/0000-0002-0869-3847"
+title: "Code in Support of Eradicating an Invasive Mammal Requires Local Elimination and Reduced Reinvasion from Urban Source Population"
+version: 1.0.1
+doi: 10.5281/zenodo.8336687
+date-released: 2023-09-12
+url: "https://github.com/patch105/PossumReinvasion/tree/v1.0.1"
